@@ -14,7 +14,7 @@ Para executar localmente, você vai precisar das seguintes ferramentas e tecnolo
 
 ### No Windows
 
-[![Audi R8](.github/windows.png)](https://youtu.be/ZsOq4xoTid0 "Variáveis de ambiente no Windows")
+[![Audi R8](.github/windows.png)](https://youtu.be/ZsOq4xoTid0 "Variáveis de ambiente no Windows")]
 
 
 ### 🤖 Startar Sevidor Appium e device no Android Studio
