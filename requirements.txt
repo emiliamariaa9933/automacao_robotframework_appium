@@ -1,0 +1,12 @@
+appium-python-client
+charset-normalizer
+faker
+pyyaml
+robotframework-appiumlibrary
+robotframework-faker
+robotframework-pythonlibcore
+robotframework-selenium2library
+robotframework-seleniumlibrary
+robotframework
+selenium2libraryextension
+text-unidecode
