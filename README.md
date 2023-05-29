@@ -14,7 +14,7 @@ Para executar localmente, você vai precisar das seguintes ferramentas e tecnolo
 
 ### No Windows
 
-[![Variáveis de ambiente no Windows](https://youtu.be/ZsOq4xoTid0)
+[Variáveis de ambiente no Windows](https://youtu.be/ZsOq4xoTid0)
 
 ### 🤖 Startar Sevidor Appium e device no Android Studio
 
